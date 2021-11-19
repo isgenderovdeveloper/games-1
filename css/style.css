@@ -1,0 +1,18 @@
+.color {
+    background-color: #2E4C6D;
+    box-shadow: 2px 4px 10px 4px whitesmoke;
+}
+
+.bgcolor {
+    background-color: blueviolet;
+    box-shadow: 2px 2px 20px 6px blueviolet;
+}
+
+.bgcolor-1 {
+    background-color: #396EB0;
+    box-shadow: 2px 2px 20px 4px #396EB0;
+}
+
+.shadow-1 {
+    box-shadow: 2px 2px 30px 10px black;
+}
